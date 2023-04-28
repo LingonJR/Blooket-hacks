@@ -9,5 +9,5 @@
 ### Features
 
 - Background Color Changer
-- Token Chnager
+- Token Changer
 - Round Changer 
