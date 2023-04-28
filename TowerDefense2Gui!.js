@@ -19,7 +19,7 @@ discordtext.style.fontSize = '24px';
 discordtext.style.textDecoration = 'underline';
 
 discordtext.addEventListener('click', function() { 
-    window.location.href = "https://discord.gg/jYUCn5VTVY";
+      window.open("https://discord.gg/jYUCn5VTVY", "_blank");
 });
 
 
