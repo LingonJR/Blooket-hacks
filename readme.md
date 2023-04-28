@@ -11,3 +11,16 @@
 - Background Color Changer
 - Token Changer
 - Round Changer 
+
+## Global Gui
+
+### Features
+
+- Background Color Changer
+- Highlight Answers
+- Remove Random Name
+- All Blooks Unlocked
+- Flood Game
+
+
+Discord:Lingonjr#5296
