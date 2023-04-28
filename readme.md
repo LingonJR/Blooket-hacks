@@ -1,4 +1,4 @@
-### How to use in microsoft edge
+# How to use in microsoft edge
   Bookmark a random page
    copy one of the codes
    after bookmark right click the bookmark then press edit
@@ -6,7 +6,7 @@
    
 ## Tower Defense 2 Gui
 
-# Features
+### Features
 
 - Background Color Changer
 - Token Chnager
